@@ -10,12 +10,6 @@ Following questions were answered through this project:
 4. Plot the word cloud of each of the three speeches. (after removing the stopwords)
 
 
-## Libraries Used
-
-import nltk
-from nltk.corpus import inaugural
-from wordcloud import WordCloud
-
 ## Case Steps
 1. First downloaded and uploaded the required libraries for performing natural language processing 
 2. Uploaded the speeches and counted the lenthg of of characters, words and sentences
@@ -28,7 +22,7 @@ from wordcloud import WordCloud
 9. For wordcloud, i firstly installed and imported the wordcloud library and then constructed wordcloud after cleaning the text for stop words. 
 
 ## Result
-Finding aout the top three words and wordcloud helped in understanding the general and individual theme of the speech of the president's. This helps us to know what message each president wanted to focus on, in their speeches. 
+Finding out the top three words and wordcloud helped in understanding the general and individual theme of the speech of the president's. This helps us to know what message each president wanted to focus on, in their speeches. 
 
 
 ## Data preparation
