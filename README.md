@@ -13,10 +13,10 @@ Following questions were answered through this project:
 ## Case Steps
 1. First downloaded and uploaded the required libraries for performing natural language processing 
 2. Uploaded the speeches and counted the length of of characters, words and sentences
-3. Converted the speech text into dataframe as it helps in easier implemntation of nltk codes
+3. Converted the speech text into dataframe as it helps in easier implementation of nltk codes
 4. Replaced any unusual symbols in the speech using df.str.replace()
 5. Performed stemming to bring all the words to its root word. This will help to not to recoganise same words as different
-6. To find the most common words, creatd a series of words by splitting each word of the sentence with a space. Then cleaned this series of words for 'stopwords' and convered all upper case to lower case letters. Then extrated the 2000 most common words. 
+6. To find the most common words, created a series of words by splitting each word of the sentence with a space. Then cleaned this series of words for 'stopwords' and convered all upper case to lower case letters. Then extrated the 2000 most common words. 
 7. After finding the most common words, removed the meaningless words by again running the 'stopword' function, including the meaningless word in the list of stopwords. 
 8. Repeated the same for all three president
 9. For wordcloud, i firstly installed and imported the wordcloud library and then constructed wordcloud after cleaning the text for stop words. 
