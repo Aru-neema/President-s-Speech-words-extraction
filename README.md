@@ -1,7 +1,7 @@
 # President's Speech words extraction
 
 ## Objective Statement:
-In this project i am trying extract most coomon words used and clean the text for punctation and case letters for easier analysis. The dataset is uploaded from 'nltk' library from the corpus name of 'inauguural'. Then i uploaded the speeches of three presidents, Roosevelt, Kennedy and Nixon. 
+In this project i am trying extract most common words used and clean the text for punctation and case letters for easier analysis. The dataset is uploaded from 'nltk' library from the corpus name of 'inauguural'. Then i uploaded the speeches of three presidents, Roosevelt, Kennedy and Nixon. 
 
 Following questions were answered through this project: 
 1. Find the number of characters, words and sentences for the mentioned documents.
